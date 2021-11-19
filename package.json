@@ -1,8 +1,8 @@
 {
-  "name": "template-node-typescript",
+  "name": "roman-number-calculator-app",
   "version": "1.0.0",
   "org": "my-org",
-  "description": "Code pattern for starting a typescript-based microservice",
+  "description": "Code pattern for learning TDD with typescript",
   "main": "index.js",
   "config": {
     "protocol": "http",
